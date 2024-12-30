@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-👋 Hi, I'm Pooja Bhatnagar!
-🚀 Software Engineer | Machine Learning Enthusiast | AI & Computer Vision Developer
+👋 Hi, I'm Pooja Bhatnagar!  
+🚀 Software Engineer | Machine Learning Enthusiast | AI & Computer Vision Developer  
 🎓 NIT Hamirpur (B.Tech) CSE
 
 🔹 Senior Member of Technical Staff at Siemens EDA – Applying Machine Learning to optimize VHDL compiler regression times and simulation cycles.  
