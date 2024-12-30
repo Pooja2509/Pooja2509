@@ -2,6 +2,7 @@
 
 👋 Hi, I'm Pooja Bhatnagar!
 🚀 Software Engineer | Machine Learning Enthusiast | AI & Computer Vision Developer
+🎓 NIT Hamirpur (B.Tech) CSE
 
 🔹 Senior Member of Technical Staff at Siemens EDA – Applying Machine Learning to optimize VHDL compiler regression times and simulation cycles.  
 🔹 Former Software Engineer at Samsung R&D – Camera system bringup, driver code development, and computer vision innovation.  
@@ -20,4 +21,4 @@ AlgoSim (Unity, C#) – Algorithm simulator visualizing data structure operation
 Automated License Plate Recognition (ALPR) – Deep learning model for vehicle surveillance.https://github.com/Pooja2509/alpr
 
 Let's Connect:
-📧 [Email Me]impooja37@gmail.com] | 💼 [LinkedIn](https://www.linkedin.com/)| 🌟 [GitHub](https://github.com/Pooja2509)
+📧 [Email Me](impooja37@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/) 🌟 [GitHub](https://github.com/Pooja2509)
