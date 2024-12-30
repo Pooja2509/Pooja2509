@@ -9,9 +9,9 @@
 🔹 AI & Data Science Intern at Tech Mahindra – Built an Automated License Plate Recognition System as part of the Smart Parking Initiative, achieving 92% accuracy.  
 🔹 Passionate about AI, Computer Vision, Data Structures and Open Source.
 
-💻 Tech Stack:
-Languages: Python, C++, C, C#, R, JavaScript, TypeScript
-Frameworks & Tools: TensorFlow, Keras, Vue.js, ReactJS, Unity
+💻 Tech Stack:  
+Languages: Python, C++, C, C#, R, JavaScript, TypeScript  
+Frameworks & Tools: TensorFlow, Keras, Vue.js, ReactJS, Unity  
 Database: MySQL
 
 🛠️ Highlighted Projects:
