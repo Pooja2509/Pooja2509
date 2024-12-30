@@ -10,15 +10,15 @@
 🔹 Passionate about AI, Computer Vision, Data Structures and Open Source.
 
 💻 Tech Stack:  
-Languages: Python, C++, C, C#, R, JavaScript, TypeScript  
-Frameworks & Tools: TensorFlow, Keras, Vue.js, ReactJS, Unity  
-Database: MySQL
+**Languages:** Python, C++, C, C#, R, JavaScript, TypeScript  
+**Frameworks & Tools:** TensorFlow, Keras, Vue.js, ReactJS, Unity  
+**Database:** MySQL
 
 🛠️ Highlighted Projects:
 
-Timetable Scheduler (ReactJS) – Automatic scheduling software minimizing conflicts.https://github.com/Pooja2509/timetable_scheduler
-AlgoSim (Unity, C#) – Algorithm simulator visualizing data structure operations with motion effects.https://github.com/Pooja2509/Algosim
-Automated License Plate Recognition (ALPR) – Deep learning model for vehicle surveillance.https://github.com/Pooja2509/alpr
+**Timetable Scheduler (ReactJS)** – Automatic scheduling software minimizing conflicts.https://github.com/Pooja2509/timetable_scheduler  
+**AlgoSim (Unity, C#)** – Algorithm simulator visualizing data structure operations with motion effects.https://github.com/Pooja2509/Algosim
+**Automated License Plate Recognition (ALPR)** – Deep learning model for vehicle surveillance.https://github.com/Pooja2509/alpr
 
 Let's Connect:
 📧 [Email Me](impooja37@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/) 🌟 [GitHub](https://github.com/Pooja2509)
