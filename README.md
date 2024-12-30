@@ -21,4 +21,4 @@
 **Automated License Plate Recognition (ALPR)** – Deep learning model for vehicle surveillance.https://github.com/Pooja2509/alpr  
 
 Let's Connect:
-📧 [Email Me](mailto:impooja37@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/) 🌟 [GitHub](https://github.com/Pooja2509)
+📧 [Email Me](mailto:impooja37@gmail.com)  💼 [LinkedIn](https://www.linkedin.com/) 🌟 [GitHub](https://github.com/Pooja2509)
