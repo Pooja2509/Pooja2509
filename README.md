@@ -17,8 +17,8 @@
 🛠️ Highlighted Projects:
 
 **Timetable Scheduler (ReactJS)** – Automatic scheduling software minimizing conflicts.https://github.com/Pooja2509/timetable_scheduler  
-**AlgoSim (Unity, C#)** – Algorithm simulator visualizing data structure operations with motion effects.https://github.com/Pooja2509/Algosim
-**Automated License Plate Recognition (ALPR)** – Deep learning model for vehicle surveillance.https://github.com/Pooja2509/alpr
+**AlgoSim (Unity, C#)** – Algorithm simulator visualizing data structure operations with motion effects.https://github.com/Pooja2509/Algosim  
+**Automated License Plate Recognition (ALPR)** – Deep learning model for vehicle surveillance.https://github.com/Pooja2509/alpr  
 
 Let's Connect:
 📧 [Email Me](impooja37@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/) 🌟 [GitHub](https://github.com/Pooja2509)
