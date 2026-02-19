@@ -27,6 +27,13 @@ B.Tech CSE, NIT Hamirpur | 5+ years in ML systems, C++ optimization & full-stack
 
 ---
 
+### Publications
+
+- **Enhancing Image Captioning with Neural Models** — [arXiv](https://doi.org/10.48550/arXiv.2312.00435)
+  Proposed a novel quality metric for caption generation. Designed and evaluated inject, merge-concat, and merge-add encoder-decoder architectures (VGG16 + LSTM) on 675K+ image-caption pairs using beam search, assessed with BLEU-4 and ROUGE metrics.
+
+---
+
 ### Tech Stack
 
 **Languages:** Python, C++, JavaScript, SQL
