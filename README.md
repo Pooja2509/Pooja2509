@@ -1,17 +1,17 @@
 # Hi, I'm Pooja Bhatnagar 👋
 
-**ML Engineer | Computer Vision | NLP | Full Stack**
+**C++ Systems Engineer | EDA Simulation & Compiler Optimization | Performance Engineering**
 
-B.Tech CSE, NIT Hamirpur | 5+ years in ML systems, C++ optimization & full-stack development
+B.Tech CSE, NIT Hamirpur | 5+ years building high-performance C++ systems, EDA simulation engines & multi-threaded optimization
 
 ---
 
 ### About Me
 
-- Built production ML pipelines (RL, LLMs, coverage optimization) at **Siemens EDA** for 3+ years
-- Designed face recognition systems at **Samsung R&D** with 96.2% accuracy
+- Optimized C++ simulation kernels (Verilog/VHDL) at **Siemens EDA** — signal caching, memory pooling, delta cycle reduction, multi-threaded builds
+- Developed camera drivers in C/C++ at **Samsung R&D** for MediaTek chipsets across Android releases
+- Passionate about systems programming, compiler internals, multi-threading, and algorithmic problem-solving
 - Published research on [Neural Image Captioning](https://doi.org/10.48550/arXiv.2312.00435)
-- Currently seeking ML / Software Engineering roles (Bangalore, Hyderabad, Remote)
 
 ---
 
@@ -20,9 +20,8 @@ B.Tech CSE, NIT Hamirpur | 5+ years in ML systems, C++ optimization & full-stack
 | Project | Tech Stack | Highlights |
 |---------|-----------|------------|
 | [Visual Search Engine](https://github.com/Pooja2509/visual-search-engine) | PyTorch, FAISS, FastAPI, Docker | ResNet50 + Triplet Loss, 82.6% P@5, sub-50ms search on 44K products |
-| [Image Captioning Research](https://doi.org/10.48550/arXiv.2312.00435) | TensorFlow, VGG16, LSTM | Published paper, novel quality metric, 675K+ image-caption pairs |
-| [Timetable Scheduler](https://github.com/Pooja2509/timetable_scheduler) | ReactJS | Constraint-based university timetable generator |
 | [AlgoSim](https://github.com/Pooja2509/Algosim) | Unity, C# | Interactive 3D data structure & algorithm visualizer |
+| [Timetable Scheduler](https://github.com/Pooja2509/timetable_scheduler) | ReactJS | Constraint-based university timetable generator |
 | [ALPR System](https://github.com/Pooja2509/alpr) | TensorFlow, OpenCV, VueJS | 92% detection, 94% OCR accuracy on 10K+ images |
 
 ---
@@ -30,16 +29,16 @@ B.Tech CSE, NIT Hamirpur | 5+ years in ML systems, C++ optimization & full-stack
 ### Publications
 
 - **Enhancing Image Captioning with Neural Models** — [arXiv](https://doi.org/10.48550/arXiv.2312.00435)
-  Proposed a novel quality metric for caption generation. Designed and evaluated inject, merge-concat, and merge-add encoder-decoder architectures (VGG16 + LSTM) on 675K+ image-caption pairs using beam search, assessed with BLEU-4 and ROUGE metrics.
+  Proposed a novel quality metric for caption generation. Evaluated inject, merge-concat, and merge-add encoder-decoder architectures (VGG16 + LSTM) on 675K+ image-caption pairs.
 
 ---
 
 ### Tech Stack
 
-**Languages:** Python, C++, JavaScript, SQL
-**ML/AI:** TensorFlow, PyTorch, HuggingFace, LangChain, Scikit-Learn, XGBoost, OpenCV, FAISS
-**Infrastructure:** AWS, Docker, Kubernetes, Redis, MongoDB, FastAPI, CI/CD
-**Frontend:** ReactJS, VueJS, Streamlit
+**Languages:** C++ (11/14/17), C, Python, SystemVerilog, JavaScript, SQL
+**Systems & EDA:** QuestaSim, Verilog/VHDL Compilation, Event-Driven Simulation, Memory Pooling, Multi-threading
+**Build & Debug:** CMake, GCC, GDB, Valgrind, perf, JTAG
+**Infrastructure:** AWS, Docker, Kubernetes, Redis, CI/CD, FastAPI
 
 ---
 
