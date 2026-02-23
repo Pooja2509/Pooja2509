@@ -1,16 +1,16 @@
 # Hi, I'm Pooja Bhatnagar 👋
 
-**C++ Systems Engineer | EDA Simulation & Compiler Optimization | Performance Engineering**
+**Software Engineer | C++ Compiler Optimization | ML/AI | Full Stack**
 
-B.Tech CSE, NIT Hamirpur | 5+ years building high-performance C++ systems, EDA simulation engines & multi-threaded optimization
+B.Tech CSE, NIT Hamirpur | 5+ years building high-performance C++ systems, ML pipelines & full-stack applications
 
 ---
 
 ### About Me
 
-- Optimized C++ simulation kernels (Verilog/VHDL) at **Siemens EDA** — signal caching, memory pooling, delta cycle reduction, multi-threaded builds
-- Developed camera drivers in C/C++ at **Samsung R&D** for MediaTek chipsets across Android releases
-- Passionate about systems programming, compiler internals, multi-threading, and algorithmic problem-solving
+- Optimized large-scale C++ compiler and simulation engines at **Siemens EDA** — constant propagation, dead code elimination, memory pooling
+- Built ML systems — RL-based optimization, LLM-powered developer tools with LangChain & RAG, Redis caching
+- Developed C/C++ camera drivers at **Samsung R&D** and face recognition pipelines with 96.2% accuracy
 - Published research on [Neural Image Captioning](https://doi.org/10.48550/arXiv.2312.00435)
 
 ---
@@ -29,16 +29,15 @@ B.Tech CSE, NIT Hamirpur | 5+ years building high-performance C++ systems, EDA s
 ### Publications
 
 - **Enhancing Image Captioning with Neural Models** — [arXiv](https://doi.org/10.48550/arXiv.2312.00435)
-  Proposed a novel quality metric for caption generation. Evaluated inject, merge-concat, and merge-add encoder-decoder architectures (VGG16 + LSTM) on 675K+ image-caption pairs.
+  Proposed a novel quality metric for caption generation. Evaluated encoder-decoder architectures (VGG16 + LSTM) on 675K+ image-caption pairs.
 
 ---
 
 ### Tech Stack
 
-**Languages:** C++ (11/14/17), C, Python, SystemVerilog, JavaScript, SQL
-**Systems & EDA:** QuestaSim, Verilog/VHDL Compilation, Event-Driven Simulation, Memory Pooling, Multi-threading
-**Build & Debug:** CMake, GCC, GDB, Valgrind, perf, JTAG
-**Infrastructure:** AWS, Docker, Kubernetes, Redis, CI/CD, FastAPI
+**Languages:** C++, C, Python, JavaScript, SQL
+**ML/AI:** TensorFlow, PyTorch, HuggingFace, LangChain, OpenCV, FAISS, Reinforcement Learning
+**Infrastructure:** AWS, Docker, Kubernetes, Redis, Git, CI/CD, FastAPI
 
 ---
 
