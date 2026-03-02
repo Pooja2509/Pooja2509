@@ -44,4 +44,4 @@ B.Tech CSE, NIT Hamirpur | 5+ years building high-performance C++ systems, ML pi
 ### Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-impooja37%40gmail.com-red?style=flat&logo=gmail)](mailto:impooja37@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pooja%20Bhatnagar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pooja%20Bhatnagar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pooja-bhatnagar-b80202144/)
