@@ -1,32 +1,33 @@
 ## Pooja Bhatnagar
 
-**C++ Systems & Performance Engineer | ML Infrastructure | Backend**
+**Software Engineer | C++ Systems · Backend Infrastructure · ML Pipelines**
 
-4.5+ years building low-latency C++ backends, ML systems, and scalable microservices at Siemens and Samsung R&D. Deep experience across the full stack — from custom memory allocators and database optimization to production ML pipelines with TensorFlow, LangChain, and RAG. NIT Hamirpur CSE.
-
----
-
-### Featured: [lsm-kvstore](https://github.com/Pooja2509/lsm-kvstore) — Storage engine from scratch in C++20
-
-Built a persistent key-value store using LSM-tree architecture. 4800 lines, 68 tests.
-
-`Custom arena allocator` · `Skip list with lock-free reads` · `Prefix-compressed SSTables` · `Bloom filters (0.8% FP)` · `WAL with CRC32 crash recovery` · `MVCC snapshots` · `Leveled compaction` · **500K writes/sec**
+4.5+ years building high-performance backends, scalable platforms, and data infrastructure at Siemens and Samsung R&D. I've worked across the full stack — from custom memory allocators and database optimization to event-driven microservices, CI/CD pipelines, and production ML systems. NIT Hamirpur CSE.
 
 ---
 
 ### What I've built at work
 
 **Siemens Digital Industries Software** — Senior MTS (3 years)
-- Cut C++ backend latency **15%** via custom memory pooling and thread scheduling optimization
-- Engineered Redis caching that reduced PostgreSQL response time from **2.1s → 180ms** across 500K+ records
-- Architected LLM-powered code navigation assistant using **Transformers, LangChain, RAG** (85% MRR@10) — async ingestion with vector store consistency, served on EKS at p99 < 3s
-- Built RL-based optimization engine in TensorFlow with custom reward shaping: **20% throughput gain**, 35% fewer compute cycles, extended to multi-agent RL with experience replay (+28% success rate)
-- Deployed fault-tolerant microservices on **Kubernetes (EKS)** with auto-scaling, health checks, circuit breakers
+
+- Architected a **regression and build management platform for 500+ engineers** — scheduling builds, executing 50K+ test cases per run, managing queues with rerun support, Celery + Redis async tasks, Kafka event ingestion → **reduced manual workflows by 60%**. Adopted org-wide as the primary CI dashboard.
+- Cut C++ backend latency **15%** via custom memory allocators (arena/slab) and thread scheduling redesign. Applied compiler-level optimizations → **~40% fewer cache misses, 35% less lock contention**.
+- Diagnosed PostgreSQL bottlenecks on 500K+ record APIs — composite indexes, N+1 elimination, Redis cache-aside with TTL → **p95: 2.1s → 180ms (12x)**
+- Integrated **Elasticsearch** for full-text search across 200K+ records, **MongoDB** for flexible per-team config, structured logging with correlation IDs → **debugging time reduced 40%**
+- Established **CI/CD (GitHub Actions)**, Docker builds, deployment to **Kubernetes on AWS**, Prometheus/Grafana dashboards, CloudWatch alerts
 
 **Samsung R&D** — Software Developer (1.5 years)
-- Owned C++ backend modules for Android platform across 3 product lines (millions of users)
-- Led Android 11→12 platform migration — **zero critical regressions**
-- Built face recognition framework with TensorFlow, OpenCV, FaceNet — **96.2% accuracy**, optimized with INT8 quantization for 15% inference latency reduction on-device
+
+- Owned performance-critical **C++ backend modules for Android** across 3 product lines (millions of users). API versioning, memory management, IPC handlers. Led Android 11→12 migration.
+- Built on-device face recognition (TensorFlow, FaceNet, INT8 quantization) → **96.2% accuracy, 15% latency reduction**
+
+---
+
+### Featured Project: [lsm-kvstore](https://github.com/Pooja2509/lsm-kvstore)
+
+Persistent key-value storage engine built from scratch in **C++20** using LSM-tree architecture.
+
+`Custom arena allocator` · `Skip list with lock-free reads` · `Prefix-compressed SSTables` · `Bloom filters (0.8% FP)` · `WAL with CRC32 crash recovery` · `MVCC snapshots` · `Leveled compaction` · **500K writes/sec · 68 tests**
 
 ---
 
@@ -34,42 +35,44 @@ Built a persistent key-value store using LSM-tree architecture. 4800 lines, 68 t
 
 | Project | Stack | Result |
 |---------|-------|--------|
-| **[lsm-kvstore](https://github.com/Pooja2509/lsm-kvstore)** | C++20, LSM-tree | 500K writes/sec, 68 tests, crash recovery, MVCC |
-| [Visual Search Engine](https://github.com/Pooja2509/Visual-Search-Engine) | PyTorch, FAISS, FastAPI, Docker | 82.6% P@5, sub-50ms search on 44K products |
-| [AlgoSim](https://github.com/Pooja2509/AlgoSim) | Unity, C# | Interactive 3D data structure & algorithm visualizer |
+| **[lsm-kvstore](https://github.com/Pooja2509/lsm-kvstore)** | C++20, LSM-tree | 500K writes/sec, crash recovery, MVCC |
+| [Visual Search Engine](https://github.com/Pooja2509/Visual-Search-Engine) | PyTorch, FAISS, FastAPI, Docker | 82.6% P@5, sub-50ms on 44K products |
 | [Neural Image Captioning](https://github.com/Pooja2509/Neural-Image-Captioning) | TensorFlow, VGG16+LSTM | Published paper, 675K+ image pairs |
-| [Timetable Scheduler](https://github.com/Pooja2509/Timetable-Scheduler) | ReactJS | Constraint-based university timetable generator |
+| [AlgoSim](https://github.com/Pooja2509/AlgoSim) | Unity, C# | Interactive 3D algorithm visualizer |
+| [Timetable Scheduler](https://github.com/Pooja2509/Timetable-Scheduler) | ReactJS | Constraint-based generator for NIT Hamirpur |
 | [ALPR System](https://github.com/Pooja2509/ALPR-System) | TensorFlow, OpenCV, VueJS | 92% detection, 94% OCR on 10K+ images |
 
 ---
 
-### Core skills
+### Skills
 
-**C++ & Systems:** Custom allocators (arena/pool), memory pooling, cache optimization, thread scheduling, lock-free data structures, profiling (perf, Valgrind), C++17/20
+**Backend & APIs:** REST APIs, Microservices, FastAPI, Django, Celery, Kafka, gRPC, async task queues, event-driven architecture
 
-**ML & AI:** TensorFlow, PyTorch, LangChain, RAG, FAISS, Transformers, Reinforcement Learning, model quantization (INT8), on-device inference optimization
+**C++ & Systems:** C++17/20, custom allocators, memory pooling, lock-free structures, cache-line optimization, concurrency (std::atomic, memory ordering)
 
-**Databases & Storage:** PostgreSQL (query optimization, EXPLAIN ANALYZE, indexing), Redis (caching, TTL), LSM-trees, B-trees, bloom filters, WAL design
+**Databases:** PostgreSQL (query optimization, indexing, EXPLAIN ANALYZE), Redis (caching, TTL, pub/sub), MongoDB, Elasticsearch, Kafka
 
-**Backend & Infra:** Microservices, FastAPI, Django, Kafka, gRPC, Docker, Kubernetes, AWS (EKS), CI/CD, Prometheus/Grafana
+**Infra & Cloud:** Docker, Kubernetes, AWS (EC2, EKS, CloudWatch), Terraform, CI/CD (GitHub Actions), Prometheus, Grafana
 
-**Languages:** C++, Python, SQL, JavaScript, Go (learning)
+**ML & AI:** TensorFlow, PyTorch, LangChain, RAG, FAISS, Transformers, INT8 quantization
+
+**Languages:** C++, Python, JavaScript, Go
 
 ---
 
 ### Publications
 
-- **Enhancing Image Captioning with Neural Models** — [arXiv](https://arxiv.org/abs/your-paper-id) · Proposed novel quality metric, evaluated encoder-decoder architectures on 675K+ image-caption pairs
+- **Enhancing Image Captioning with Neural Models** — [arXiv](https://arxiv.org/abs/2312.00435) · Novel quality metric, encoder-decoder evaluation on 675K+ image-caption pairs
 
 ---
 
 ### Currently
 
-- Building database internals knowledge (CMU 15-445) and learning Go for systems programming
+- Deepening database internals (CMU 15-445) and building Go proficiency
 - Exploring open-source contributions in ClickHouse, gRPC, ScyllaDB
 - Open to: **Bangalore, Hyderabad, Pune, Gurgaon, Remote** · Immediate joiner
 
 ---
 
 [![Email](https://img.shields.io/badge/Email-impooja37@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:impooja37@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pooja_Bhatnagar-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-bhatnagar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pooja_Bhatnagar-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-bhatnagar-b80202144/)
